@@ -4,17 +4,17 @@ icon: "/assets/img/trophy.svg"
 contents:
   - title: Introduction to DevOps
     description: Certified by IBM
-    certificate_link:: [Certificate link](https://www.coursera.org/account/accomplishments/verify/5Y0NNK8VFXP7)
+    certificate_link: [Certificate link](https://www.coursera.org/account/accomplishments/verify/5Y0NNK8VFXP7)
     date: March 2025
   - title: Get the most out of Jira
     description: Certified by Atlassian
     date: March 2025
-    certificate_link:: [Certificate link](https://university.atlassian.com/student/award/zR7UMTasfNqPjUsahuKndwDg)
+    certificate_link: [Certificate link](https://university.atlassian.com/student/award/zR7UMTasfNqPjUsahuKndwDg)
   - title: Java (Basic)
     description: Certified by HackerRank
     date: March 2023
-    certificate_link:: [Certificate link](https://www.hackerrank.com/certificates/293815b10e72)
+    certificate_link: [Certificate link](https://www.hackerrank.com/certificates/293815b10e72)
   - title: Git & GitHub
     description: Certified by Udemy
     date: September 2022
-    certificate_link:: [Certificate link](https://udemy-certificate.s3.amazonaws.com/image/UC-83639836-caa9-49f2-a939-58d75b5e9d0f.jpg)
+    certificate_link: [Certificate link](https://udemy-certificate.s3.amazonaws.com/image/UC-83639836-caa9-49f2-a939-58d75b5e9d0f.jpg)
