@@ -2,19 +2,19 @@ title: My Resume
 profile_img: /assets/img/profile-avatar.jpg
 icon_img: /assets/img/icon.webp
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: Vo Ho Anh Tuan
+job: Software Engineer
 
 phone_number: +84 913-938-881
-address: Binh Tan Dist, Vietnam
+address: Binh Tan, Ho Chi Minh
 email: hoanhtuan.vo@gmail.com
 linkedin_username: www.linkedin.com/in/ho-anh-tuan-vo
 github_username: https://github.com/VoHoAnhTuan
-instagram_username: www.instagram.com
-twitter_username: www.x.com
-facebook_username: www.facebook.com
-youtube_username: www.youtube.com
-blog_url: https://vohoanhtuan.github.io/
+instagram_username: https://instagram.com
+twitter_username: https://x.com
+facebook_username: https://facebook.com
+youtube_username: https://youtube.com
+blog_url: Home
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
