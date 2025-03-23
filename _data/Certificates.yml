@@ -1,0 +1,16 @@
+subject: Certificates
+listing-order: 4
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: Introduction to DevOps
+    description: Certified by IBM
+    date: March 2025
+  - title: Jira
+    description: Certified by Atlassian
+    date: March 2025
+  - title: Java (Basic)
+    description: Certified by HackerRank
+    date: March 2023
+  - title: Git & GitHub
+    description: Certified by Udemy
+    date: September 2022
