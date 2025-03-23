@@ -4,6 +4,7 @@ icon: "/assets/img/trophy.svg"
 contents:
   - title: Introduction to DevOps
     description: Certified by IBM
+    link: https://www.coursera.org/account/accomplishments/verify/5Y0NNK8VFXP7
     date: March 2025
   - title: Jira
     description: Certified by Atlassian
