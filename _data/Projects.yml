@@ -2,7 +2,7 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: CloudCast Weather Application
     description: 
       - Chatbot developed based on a large language model
       - Designed Generative algorithm to generate novel human-like content
@@ -10,12 +10,16 @@ contents:
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Designed and implemented a full-featured weather anticipation application that allows users to browse, search, and save their favorite locations
+      - Sketched and designed UX/UI by using Figma to bring the most aesthetic design and convenient functioning to users
+      - Utilized SQLite to store the users’ data locally to eliminate the need for a separate database server which makes the application easy to perform future maintenance
+      - Researched and retrieved weather data by using OpenWeather API which has real-time and historical weather data, worldwide data, and flexible queries to make the application more useful for the users
+      - "Technology Used: Java, SQLite, Android Studio, Figma, Git/GitHub"
+    image: #"![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "Uni-verse student social application" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Designed and implemented a social networking application to assist students and organizers alike in creating, managing, finding, and attending on-campus events
+      - Implemented database by using FireBase to enable real-time data synchronization, allowing for instant updates across all connected devices
+      - Led a team of three members during Phase 1, collaborating effectively to achieve project milestones such as planning, designing, building UML
+      - "Technology Used: Java, Firebase, Glide, Android Studio, Figma, Git/GitHub"
+#    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
