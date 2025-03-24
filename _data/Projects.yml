@@ -4,18 +4,12 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: CloudCast Weather Application
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
-    description: 
       - Designed and implemented a full-featured weather anticipation application that allows users to browse, search, and save their favorite locations
       - Sketched and designed UX/UI by using Figma to bring the most aesthetic design and convenient functioning to users
       - Utilized SQLite to store the users’ data locally to eliminate the need for a separate database server which makes the application easy to perform future maintenance
       - Researched and retrieved weather data by using OpenWeather API which has real-time and historical weather data, worldwide data, and flexible queries to make the application more useful for the users
       - "Technology Used: Java, SQLite, Android Studio, Figma, Git/GitHub"
-    image: #"![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+#    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
   - title: "Uni-verse student social application" 
     description: 
       - Designed and implemented a social networking application to assist students and organizers alike in creating, managing, finding, and attending on-campus events
