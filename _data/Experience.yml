@@ -2,21 +2,19 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: OTA World LLC DBA Osaki
+    role: Sales Representative
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Enhanced customer satisfaction by providing personalized product recommendations
+and resolving inquiries promptly
+      - Contributed significantly to team sales goals, exceeding targets by 40% by offering new
+plans to approach new potential customers
+      - Initiate and nurture relationships with potential partners, aligning business goals and
+objectives
+
+    date: May 2023 - October 2024
+  - title: Tarrant County College
+    role: Teaching Assistant
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Enhanced student learning in the Mathematics Department by tutoring College Algebra, Calculus I, II, and III, leading to improved academic performance
+    date: August 2019 - December 2019
